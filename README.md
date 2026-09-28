@@ -119,7 +119,7 @@ Além das ferramentas utilizadas, o projeto me ajudou a desenvolver principalmen
 
 ## 👩‍💻 Sobre mim
 
-Meu nome é **Lana Bartlett** e sou estudante de **Arquitetura de Dados e Desenvolvimento de Sistemas**, com foco no desenvolvimento de conhecimentos em **Análise de Dados e Ciência de Dados**.
+Meu nome é **Lana Bartl** e sou estudante de **Arquitetura de Dados e Desenvolvimento de Sistemas**, com foco no desenvolvimento de conhecimentos em **Análise de Dados e Ciência de Dados**.
 
 Tenho estudado e desenvolvido projetos utilizando **Python, Pandas, SQL e Power BI**, buscando transformar meus conhecimentos em aplicações práticas.
 
@@ -130,6 +130,3 @@ Este projeto faz parte da construção do meu portfólio e representa mais uma e
 ## 🔗 Conecte-se comigo
 
 💼 **LinkedIn:** https://www.linkedin.com/in/lanabartl/
-
-💻 **GitHub:** [seu GitHub]
-https://www.linkedin.com/in/lanabartl/
